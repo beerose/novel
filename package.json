@@ -53,6 +53,7 @@
     "postcss": "^8.4.21",
     "prettier": "^2.8.6",
     "prettier-plugin-tailwindcss": "^0.2.5",
-    "tailwindcss": "^3.2.7"
+    "tailwindcss": "^3.2.7",
+    "unique-names-generator": "^4.7.1"
   }
 }
